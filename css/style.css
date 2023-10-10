@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: white;
-color: #434455;
+  color: #434455;
 }
 body a,
 ul {
@@ -20,7 +20,7 @@ ul {
   color: #4d5ae5;
 }
 .logo-item {
-color: #2e2f42;
+  color: #2e2f42;
 }
 
 .nav-link {
@@ -35,7 +35,7 @@ color: #2e2f42;
   color: #404bbf;
 }
 .address {
-    font-style: normal;
+  font-style: normal;
 }
 .address-list {
   font-size: 16px;
@@ -96,7 +96,7 @@ color: #2e2f42;
   color: #2e2f42;
 }
 .team-list {
-    background-color: #FFFFFF
+  background-color: #ffffff;
 }
 .team-img {
   width: 264px;
@@ -154,14 +154,14 @@ color: #2e2f42;
   color: #f4f4fd;
 }
 .footer-logo {
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    letter-spacing: 0.03em;
-    line-height: 1.17;
-    text-transform: uppercase;
-    color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.17;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .footer-logo-item {
-    color: #F4F4FD;
+  color: #f4f4fd;
 }
