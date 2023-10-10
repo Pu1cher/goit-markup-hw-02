@@ -15,7 +15,6 @@ ul {
   font-size: 18px;
   font-weight: 700;
   letter-spacing: 0.03em;
-  text-align: left;
   line-height: 1.17;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -29,7 +28,6 @@ color: #2e2f42;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #2e2f42;
 }
 .nav-link:hover,
@@ -44,7 +42,6 @@ color: #2e2f42;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
 }
 .address-list a:hover,
 .address-list a:focus {
@@ -58,7 +55,6 @@ color: #2e2f42;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #ffffff;
 }
 .order-button {
@@ -67,7 +63,6 @@ color: #2e2f42;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.04em;
-  text-align: left;
   color: white;
   background-color: #4d5ae5;
 }
@@ -81,7 +76,6 @@ color: #2e2f42;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #2e2f42;
 }
 .about-description {
@@ -89,7 +83,6 @@ color: #2e2f42;
 
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
 }
 .team {
   background-color: #f4f4fd;
@@ -99,7 +92,6 @@ color: #2e2f42;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -115,7 +107,6 @@ color: #2e2f42;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
 .team-description {
@@ -123,14 +114,12 @@ color: #2e2f42;
 
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: center;
 }
 .portfolio-title {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -143,7 +132,6 @@ color: #2e2f42;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #2e2f42;
 }
 .portfolio-list-description {
@@ -151,7 +139,6 @@ color: #2e2f42;
 
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
 }
 .footer {
   background-color: #2e2f42;
@@ -161,7 +148,6 @@ color: #2e2f42;
 
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #f4f4fd;
 }
 .footer .logo {
@@ -172,7 +158,6 @@ color: #2e2f42;
     font-size: 18px;
     font-weight: 700;
     letter-spacing: 0.03em;
-    text-align: left;
     line-height: 1.17;
     text-transform: uppercase;
     color: #4d5ae5;
