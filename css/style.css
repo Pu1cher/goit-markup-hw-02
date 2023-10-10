@@ -17,6 +17,8 @@ ul {
   line-height: 21px;
   letter-spacing: 0.03em;
   text-align: left;
+  line-height: 1.17;
+  text-transform: uppercase;
 }
 .logo span {
   color: #4d5ae5;
