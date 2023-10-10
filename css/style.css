@@ -1,13 +1,13 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: white;
-  color: #2e2f42;
+color: #434455;
 }
 body a,
 ul {
   text-decoration: none;
   list-style-type: none;
-  color: #2e2f42;
+  color: #434455;
 }
 
 .logo {
@@ -16,7 +16,6 @@ ul {
   font-weight: 700;
   line-height: 21px;
   letter-spacing: 0.03em;
-  text-align: left;
 }
 .logo span {
   color: #4d5ae5;
@@ -26,7 +25,6 @@ ul {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -38,7 +36,6 @@ ul {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
 }
 .address-list a:hover {
   color: #404bbf;
@@ -51,7 +48,6 @@ ul {
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #ffffff;
 }
 .order-button {
@@ -60,7 +56,6 @@ ul {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.04em;
-  text-align: left;
   color: white;
   background-color: #4d5ae5;
 }
@@ -76,14 +71,12 @@ ul {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
 }
 .about-description {
   font-size: 16px;
 
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
 }
 .team {
   background-color: #f4f4fd;
@@ -93,7 +86,6 @@ ul {
   font-weight: 700;
   line-height: 40px;
   letter-spacing: 0.02em;
-  text-align: center;
 }
 .team-img {
   width: 264px;
@@ -104,21 +96,18 @@ ul {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: center;
 }
 .team-description {
   font-size: 16px;
 
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: center;
 }
 .portfolio-title {
   font-size: 36px;
   font-weight: 700;
   line-height: 40px;
   letter-spacing: 0.02em;
-  text-align: center;
 }
 .portfolio-img {
   width: 360px;
@@ -129,14 +118,12 @@ ul {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
 }
 .portfolio-list-description {
   font-size: 16px;
 
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
 }
 .footer {
   background-color: #2e2f42;
@@ -146,7 +133,6 @@ ul {
 
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #f4f4fd;
 }
 .footer .logo {
